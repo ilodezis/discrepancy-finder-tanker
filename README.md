@@ -19,9 +19,9 @@
 
 ## 📥 Скачать
 
-👉 [Скачать .exe (v1.0.0-win)](https://github.com/ilodezis/discrepancy-finder-tanker/releases/tag/v1.0.0-win)
+👉 [Скачать .exe (v1.0.0-win)](https://github.com/ilodezis/discrepancy-finder-tanker/releases/tag/v.1.0.0-win)
 
-👉 [Скачать .app (v1.0.0-mac)](https://github.com/ilodezis/discrepancy-finder-tanker/releases/tag/v1.0.0-mac)
+👉 [Скачать .app (v1.0.0-mac)](https://github.com/ilodezis/discrepancy-finder-tanker/releases/tag/v.1.0.0-mac)
 
 ---
 
