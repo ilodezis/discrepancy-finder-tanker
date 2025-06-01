@@ -19,9 +19,9 @@
 
 ## 📥 Скачать
 
-👉 [Скачать .exe (v1.0.0-win)](https://github.com/ilodezis/discrepancy-finder/releases/tag/v1.0.0-win)
+👉 [Скачать .exe (v1.0.0-win)](https://github.com/ilodezis/discrepancy-finder-tanker/releases/tag/v1.0.0-win)
 
-👉 [Скачать .dmg (v1.0.0-mac)](https://github.com/ilodezis/discrepancy-finder/releases/tag/v1.0.0-mac)
+👉 [Скачать .app (v1.0.0-mac)](https://github.com/ilodezis/discrepancy-finder-tanker/releases/tag/v1.0.0-mac)
 
 ---
 
@@ -48,7 +48,7 @@
 
 ## 🔐 Безопасность и аудит
 
-Fuel Discrepancy Finder не содержит:
+Discrepancy Finder не содержит:
 
 * сетевых вызовов (`requests`, `urllib`, сокеты)
 * критичных вызовов (`os.system`, `eval`, `subprocess`)
