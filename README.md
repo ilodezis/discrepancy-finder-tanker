@@ -1,4 +1,4 @@
-# Discrepancy Finder — Fuel Edition
+# Discrepancy Finder — Tanker Edition
 
 **Discrepancy Finder** — утилита для сверки Excel и CSV-файлов.
 Сравнивает данные акта и реестра: находит расхождения по заказам и суммам, сохраняет результат в `.txt` при необходимости.
